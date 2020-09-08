@@ -1,0 +1,6 @@
+.card{
+    max-width: 30rem;
+    border: 2px solid #eeeeee;
+    padding: 1rem;
+    border-radius: 10px;
+}
